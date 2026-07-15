@@ -1,0 +1,4 @@
+case_id,slice_id,modality,image_path,mask_path,registered_image_path,resolution_um,pixel_spacing_row_mm,pixel_spacing_col_mm
+Lumbar_02,axial,MicroPCCT_052p53um,/path/to/hrr.dcm,,,52.53,,
+Lumbar_02,axial,MicroPCCT_105um,/path/to/micro105.dcm,,,105.06,,
+Lumbar_02,axial,ClinicalCT_500Z_originalDICOM_nativeResolution,/path/to/ct500.dcm,,,500,,
